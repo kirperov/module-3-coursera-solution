@@ -9,5 +9,16 @@
 
 .content-menu {
     background-color: rgb(255, 205, 176);
-    margin: 20px;
+    margin: 25px;
+}
+
+p {
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+@media only screen and (max-width: 767px) {
+    .content-menu {
+        margin: 0 10% 0 10% ;
+    }
 }
