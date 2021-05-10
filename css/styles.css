@@ -1,0 +1,13 @@
+.nav-menu {
+    background-color: rgb(156, 207, 252);
+    margin: 0;
+}
+
+.navbar-collapse {
+    padding: 0;
+}
+
+.content-menu {
+    background-color: rgb(255, 205, 176);
+    margin: 20px;
+}
